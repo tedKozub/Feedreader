@@ -1,0 +1,23 @@
+# Wikipedia - Atom
+https://en.wikipedia.org/w/api.php?hidebots=1&days=7&limit=50&hidewikidata=1&action=feedrecentchanges&feedformat=atom
+https://www.theregister.co.uk/headlines.atom
+
+   # novinky.cz - RSS2
+https://api-web.novinky.cz/v1/timelines/section_5ad5a5fcc25e64000bd6e7ab?xml=rss
+
+# xkcd - Atom
+https://what-if.xkcd.com/feed.atom
+https://xkcd.com/atom.xml
+
+
+# VUT FIT - RSS2
+#https://www.fit.vut.cz/fit/news-rss/
+
+
+#The register - with redirect !!!
+# neco
+#https://www.theregister.co.uk/data_centre/headlines.atom
+#neco
+#https://www.theregister.co.uk/software/headlines.atom
+#https://www.theregister.co.uk/hardware/headlines.atom
+#xkcd

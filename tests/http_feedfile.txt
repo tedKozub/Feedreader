@@ -1,0 +1,2 @@
+# http-only source
+http://feeds.bbci.co.uk/news/world/rss.xml
